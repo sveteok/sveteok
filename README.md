@@ -1,4 +1,4 @@
-# Hi, I'm Svetlana Teryaeva 👋
+# Svetlana Teryaeva
 
 **Senior Full-Stack Software Engineer · Oulu, Finland**
 
@@ -9,38 +9,6 @@ I spent 11 years at 9Solutions working on a long-lived healthcare platform suppo
 Today I work across the full product lifecycle — from architecture and technical foundations to implementation, deployment and long-term evolution.
 
 I enjoy both building new products from scratch and improving established systems.
-
-## What I work with
-
-**Backend**
-- Python · Django
-- TypeScript · Node.js · Express
-- REST APIs
-
-**Frontend**
-- React · Next.js
-- TypeScript · JavaScript
-- HTML · CSS
-
-**Data**
-- PostgreSQL
-- MongoDB
-- MySQL
-
-**Cloud & DevOps**
-- AWS
-- Docker
-- GitHub Actions
-- CI/CD
-- AWS CDK / Infrastructure as Code
-
-**Architecture & Security**
-- System and API design
-- Authentication and authorization
-- JWT · OAuth
-- RBAC
-- IAM
-- Monitoring and operational reliability
 
 ## Selected project
 
@@ -73,6 +41,14 @@ Highlights:
 - Cloud architecture and deployment on AWS
 - Experience with both long-lived enterprise systems and new product development
 - Finnish-speaking and English-speaking engineering environments
+
+## What I work with
+
+**Backend:** Python, Django, TypeScript, Node.js, Express, REST APIs  
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML · CSS, Tailwind CSS  
+**Data:** PostgreSQL, MongoDB, MySQL  
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, AWS CDK / Infrastructure as Code  
+**Architecture & Security:** System design, API design, OAuth, JWT, RBAC, IAM, Monitoring and operational reliability
 
 ## How I work
 
