@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Svetlana Teryaeva 👋
 
-<!--
-**sveteok/sveteok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Software Engineer · Oulu, Finland**
 
-Here are some ideas to get you started:
+I am a software engineer with 15+ years of experience building, evolving and supporting production applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spent 11 years at 9Solutions working on a long-lived healthcare platform supporting healthcare organisations across Finland, including hospitals and nursing homes. My work covered backend development, frontend functionality, database design, AWS integration and production support.
+
+Today I work across the full product lifecycle — from architecture and technical foundations to implementation, deployment and long-term evolution.
+
+I enjoy both building new products from scratch and improving established systems.
+
+## What I work with
+
+**Backend**
+- Python · Django
+- TypeScript · Node.js · Express
+- REST APIs
+
+**Frontend**
+- React · Next.js
+- TypeScript · JavaScript
+- HTML · CSS
+
+**Data**
+- PostgreSQL
+- MongoDB
+- MySQL
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- GitHub Actions
+- CI/CD
+- AWS CDK / Infrastructure as Code
+
+**Architecture & Security**
+- System and API design
+- Authentication and authorization
+- JWT · OAuth
+- RBAC
+- IAM
+- Monitoring and operational reliability
+
+## Selected project
+
+### Feedbaker
+
+A full-stack SaaS application for collecting, managing and analyzing user feedback.
+
+I designed and built the application end-to-end, covering architecture, database design, backend APIs, frontend development, authentication, AI integration, testing and deployment.
+
+**Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Docker · GitHub Actions
+
+Highlights:
+- Full-stack TypeScript architecture
+- REST API backed by PostgreSQL
+- Google OAuth and JWT-based authentication
+- Embeddable feedback collection
+- AI-assisted feedback summarization
+- Dockerized development environment
+- Automated CI/CD
+
+➡️ [View Feedbaker](https://github.com/sveteok/feedbaker)
+
+## Experience snapshot
+
+**15+ years in software engineering**
+
+- 11 years building and evolving a production healthcare platform at 9Solutions
+- Long-term experience with Python/Django and PostgreSQL
+- Recent full-stack development with TypeScript, Node.js, React and Next.js
+- Cloud architecture and deployment on AWS
+- Experience with both long-lived enterprise systems and new product development
+- Finnish-speaking and English-speaking engineering environments
+
+## How I work
+
+I like owning a problem end-to-end: understanding the business requirement, designing a maintainable solution, implementing it, deploying it and seeing how it works in practice.
+
+I care about clear architecture, maintainable code, secure systems and software that solves real problems.
+
+## Open to opportunities
+
+I am open to opportunities as a:
+
+- Senior Software Engineer
+- Senior Full-Stack Engineer
+- Backend Engineer
+- Product Engineer
+
+I am based in Oulu, Finland and open to suitable on-site, hybrid and remote opportunities.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/svetlana-teryaeva-a76514157/)
