@@ -1,12 +1,12 @@
 # Svetlana Teryaeva
 
-**Senior Full-Stack Software Engineer · Oulu, Finland**
+**Senior Full-Stack Software Engineer | Oulu, Finland**
 
 I am a software engineer with 15+ years of experience designing, building, evolving, and operating production applications.
 
 I spent 11 years at 9Solutions working on a long-lived healthcare platform supporting healthcare organisations across Finland, including hospitals and nursing homes. My work covered backend development, frontend functionality, database design, AWS integration and production support.
 
-Today I work across the full product lifecycle — from architecture and implementation to deployment, production operations, and long-term evolution.
+Today I work across the full product lifecycle from architecture and implementation to deployment, production operations, and long-term evolution.
 
 I enjoy both building new products from scratch and evolving established production systems.
 
@@ -16,15 +16,15 @@ I enjoy both building new products from scratch and evolving established product
 
 **Cloud-native SaaS platform for site-based cleaning and facility service operations.**
 
-I'm building ArkSpec end-to-end — from product and system architecture
+I'm building ArkSpec end-to-end - from product and system architecture
 through full-stack development, cloud infrastructure, deployment,
 production operations, and customer onboarding.
 
 The production codebase is private. I maintain a public engineering case study covering the architecture, domain model, selected engineering decisions, and sanitized product material.
 
-[Engineering case study →](https://github.com/sveteok/arkspec-case-study)
+[Engineering case study](https://github.com/sveteok/arkspec-case-study)
 
-[Product →](https://arkspec.fi)
+[Product](https://arkspec.fi)
 
 ### Feedbaker
 
@@ -41,7 +41,7 @@ Highlights:
 - Embeddable feedback collection and AI-assisted feedback summarization
 - Dockerized development environment and automated CI/CD
 
-➡️ [View Feedbaker](https://github.com/sveteok/feedbaker)
+[View Feedbaker](https://github.com/sveteok/feedbaker)
 
 ## Experience snapshot
 
