@@ -22,7 +22,7 @@ production operations, and customer onboarding.
 
 The production codebase is private. I maintain a public engineering case study covering the architecture, domain model, selected engineering decisions, and sanitized product material.
 
-[Engineering case study →](...)
+[Engineering case study →](https://github.com/sveteok/arkspec-case-study)
 
 [Product →](https://arkspec.fi)
 
