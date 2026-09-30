@@ -32,7 +32,7 @@ A full-stack SaaS application for collecting, managing and analyzing user feedba
 
 I designed and built the application end-to-end, covering architecture, database design, backend APIs, frontend development, authentication, AI integration, testing and deployment.
 
-**Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Docker · GitHub Actions
+**Stack:** Next.js | React | TypeScript | Node.js | Express | PostgreSQL | Docker | GitHub Actions
 
 Highlights:
 - Full-stack TypeScript architecture
@@ -57,7 +57,7 @@ Highlights:
 ## What I work with
 
 **Backend:** Python, Django, TypeScript, Node.js, Express, REST APIs  
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML · CSS, Tailwind CSS  
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
 **Data:** PostgreSQL, MongoDB, MySQL  
 **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, AWS CDK / Infrastructure as Code  
 **Architecture & Security:** System design, API design, OAuth, JWT, RBAC, IAM, Monitoring and operational reliability
