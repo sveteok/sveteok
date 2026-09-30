@@ -8,7 +8,7 @@ I spent 11 years at 9Solutions working on a long-lived healthcare platform suppo
 
 Today I work across the full product lifecycle — from architecture and implementation to deployment, production operations, and long-term evolution.
 
-I enjoy both building new products from scratch and improving established systems.
+I enjoy both building new products from scratch and evolving established production systems.
 
 ## Selected projects
 
