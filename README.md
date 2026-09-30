@@ -10,7 +10,7 @@ Today I work across the full product lifecycle — from architecture and technic
 
 I enjoy both building new products from scratch and improving established systems.
 
-## Selected project
+## Selected projects
 
 ### ArkSpec
 
