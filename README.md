@@ -2,11 +2,11 @@
 
 **Senior Full-Stack Software Engineer · Oulu, Finland**
 
-I am a software engineer with 15+ years of experience building, evolving and supporting production applications.
+I am a software engineer with 15+ years of experience designing, building, evolving, and operating production applications.
 
 I spent 11 years at 9Solutions working on a long-lived healthcare platform supporting healthcare organisations across Finland, including hospitals and nursing homes. My work covered backend development, frontend functionality, database design, AWS integration and production support.
 
-Today I work across the full product lifecycle — from architecture and technical foundations to implementation, deployment and long-term evolution.
+Today I work across the full product lifecycle — from architecture and implementation to deployment, production operations, and long-term evolution.
 
 I enjoy both building new products from scratch and improving established systems.
 
@@ -14,17 +14,16 @@ I enjoy both building new products from scratch and improving established system
 
 ### ArkSpec
 
-**Cloud-native SaaS platform for cleaning and facility service operations.**
+**Cloud-native SaaS platform for site-based cleaning and facility service operations.**
 
 I'm building ArkSpec end-to-end — from product and system architecture
 through full-stack development, cloud infrastructure, deployment,
 production operations, and customer onboarding.
 
-The production codebase is private. I maintain a public engineering
-case study covering the product architecture, domain model, selected
-engineering decisions, and sanitized product material.
+The production codebase is private. I maintain a public engineering case study covering the architecture, domain model, selected engineering decisions, and sanitized product material.
 
 [Engineering case study →](...)
+
 [Product →](https://arkspec.fi)
 
 ### Feedbaker
@@ -39,10 +38,8 @@ Highlights:
 - Full-stack TypeScript architecture
 - REST API backed by PostgreSQL
 - Google OAuth and JWT-based authentication
-- Embeddable feedback collection
-- AI-assisted feedback summarization
-- Dockerized development environment
-- Automated CI/CD
+- Embeddable feedback collection and AI-assisted feedback summarization
+- Dockerized development environment and automated CI/CD
 
 ➡️ [View Feedbaker](https://github.com/sveteok/feedbaker)
 
