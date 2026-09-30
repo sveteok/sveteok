@@ -12,6 +12,21 @@ I enjoy both building new products from scratch and improving established system
 
 ## Selected project
 
+### ArkSpec
+
+**Cloud-native SaaS platform for cleaning and facility service operations.**
+
+I'm building ArkSpec end-to-end — from product and system architecture
+through full-stack development, cloud infrastructure, deployment,
+production operations, and customer onboarding.
+
+The production codebase is private. I maintain a public engineering
+case study covering the product architecture, domain model, selected
+engineering decisions, and sanitized product material.
+
+[Engineering case study →](...)
+[Product →](https://arkspec.fi)
+
 ### Feedbaker
 
 A full-stack SaaS application for collecting, managing and analyzing user feedback.
@@ -30,21 +45,6 @@ Highlights:
 - Automated CI/CD
 
 ➡️ [View Feedbaker](https://github.com/sveteok/feedbaker)
-
-### ArkSpec
-
-**Cloud-native SaaS platform for cleaning and facility service operations.**
-
-I'm building ArkSpec end-to-end — from product and system architecture
-through full-stack development, cloud infrastructure, deployment,
-production operations, and customer onboarding.
-
-The production codebase is private. I maintain a public engineering
-case study covering the product architecture, domain model, selected
-engineering decisions, and sanitized product material.
-
-[Engineering case study →](...)
-[Product →](https://arkspec.fi)
 
 ## Experience snapshot
 
